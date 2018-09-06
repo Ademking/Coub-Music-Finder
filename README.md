@@ -7,3 +7,11 @@
 #### Built using React + Bulma
 
 #### Demo : [Demo](https://coub-music.surge.sh/)
+
+## Run the project
+
+To install all the required packages run :
+
+```
+$ npm install
+```
