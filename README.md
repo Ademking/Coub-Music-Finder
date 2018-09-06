@@ -1,5 +1,5 @@
 # 🎵 Coub-Music-Finder
-#### Recognize Coub.com Music - Copy/Paste URL to get Music name
+#### Recognize Coub.com Music - Copy/Paste URL to get Music name [https://coub-music.surge.sh/](https://coub-music.surge.sh/)
 ![](https://i.imgur.com/2V6ckSE.png)
 
 --------
@@ -8,7 +8,7 @@
 
 Recognizing music from Coubs (coub.com) Just insert coub URL in search box
 
-#### Demo : [Demo](https://coub-music.surge.sh/)
+#### Demo : [Click Here](https://coub-music.surge.sh/)
 
 ## Run the project
 
